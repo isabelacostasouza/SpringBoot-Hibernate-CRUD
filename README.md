@@ -1,1 +1,1 @@
-# SpringBoot-Hibernate-CRUD
+# SpringBoot + Hibernate CRUD
